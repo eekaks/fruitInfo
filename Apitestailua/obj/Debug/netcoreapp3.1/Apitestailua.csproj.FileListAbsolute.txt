@@ -1,0 +1,14 @@
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\bin\Debug\netcoreapp3.1\Apitestailua.exe
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\bin\Debug\netcoreapp3.1\Apitestailua.deps.json
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\bin\Debug\netcoreapp3.1\Apitestailua.runtimeconfig.json
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\bin\Debug\netcoreapp3.1\Apitestailua.runtimeconfig.dev.json
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\bin\Debug\netcoreapp3.1\Apitestailua.dll
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\bin\Debug\netcoreapp3.1\Apitestailua.pdb
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\obj\Debug\netcoreapp3.1\Apitestailua.csproj.AssemblyReference.cache
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\obj\Debug\netcoreapp3.1\Apitestailua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\obj\Debug\netcoreapp3.1\Apitestailua.AssemblyInfoInputs.cache
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\obj\Debug\netcoreapp3.1\Apitestailua.AssemblyInfo.cs
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\obj\Debug\netcoreapp3.1\Apitestailua.csproj.CoreCompileInputs.cache
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\obj\Debug\netcoreapp3.1\Apitestailua.dll
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\obj\Debug\netcoreapp3.1\Apitestailua.pdb
+C:\Users\eetu\source\repos\Apitestailua\Apitestailua\obj\Debug\netcoreapp3.1\Apitestailua.genruntimeconfig.cache
